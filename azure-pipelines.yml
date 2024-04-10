@@ -1,0 +1,11 @@
+# Starter pipeline
+# Start with a minimal pipeline that you can customize to build and deploy your code.
+# Add steps that build, run tests, deploy, and more:
+# https://aka.ms/yaml
+
+import java.util.*;
+class Java1{
+	public static void main(String[] args){
+		System.out.println("hello");
+	}
+}
